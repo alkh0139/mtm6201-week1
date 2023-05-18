@@ -1,2 +1,14 @@
-#picture {max-width: 150px;}
-p{float: left;}
+#picture {
+    max-width: 150px; 
+    float: left;
+}
+dl{
+    clear:left;
+}
+dt {
+    font-weight: bold;
+    font-size: 1.15rem;
+}
+dd{
+    margin-left: 0;
+}
